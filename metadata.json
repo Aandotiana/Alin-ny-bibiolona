@@ -1,0 +1,6 @@
+{
+  "name": "Ny Alin'ny Bibiolona - Loup-Garou Malgache",
+  "description": "Loup-Garou multijoueur en temps réel inspiré du folklore malgache avec chat vocal WebRTC, rôles secrets et narration interactive.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
